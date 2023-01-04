@@ -1,0 +1,4 @@
+.DS_Store
+problem2/*
+!problem2/README.md
+!problem2/automate.sh
